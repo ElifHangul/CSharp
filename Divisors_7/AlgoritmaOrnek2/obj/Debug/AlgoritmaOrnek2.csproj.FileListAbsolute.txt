@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\AlgoritmaOrnek2\AlgoritmaOrnek2\bin\Debug\AlgoritmaOrnek2.exe.config
+c:\users\user\documents\visual studio 2015\Projects\AlgoritmaOrnek2\AlgoritmaOrnek2\obj\Debug\AlgoritmaOrnek2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\AlgoritmaOrnek2\AlgoritmaOrnek2\obj\Debug\AlgoritmaOrnek2.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\AlgoritmaOrnek2\AlgoritmaOrnek2\obj\Debug\AlgoritmaOrnek2.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\AlgoritmaOrnek2\AlgoritmaOrnek2\obj\Debug\AlgoritmaOrnek2.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\AlgoritmaOrnek2\AlgoritmaOrnek2\bin\Debug\AlgoritmaOrnek2.exe
+c:\users\user\documents\visual studio 2015\Projects\AlgoritmaOrnek2\AlgoritmaOrnek2\bin\Debug\AlgoritmaOrnek2.pdb
+c:\users\user\documents\visual studio 2015\Projects\AlgoritmaOrnek2\AlgoritmaOrnek2\obj\Debug\AlgoritmaOrnek2.exe
+c:\users\user\documents\visual studio 2015\Projects\AlgoritmaOrnek2\AlgoritmaOrnek2\obj\Debug\AlgoritmaOrnek2.pdb
