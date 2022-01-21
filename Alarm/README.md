@@ -3,4 +3,4 @@ Set an alarm and click on the button. Wait for the time to come and the alarm be
 
 
 
-[!Screenshot]screenhot.jpg
+[!Screenshot](screenhot.png)
