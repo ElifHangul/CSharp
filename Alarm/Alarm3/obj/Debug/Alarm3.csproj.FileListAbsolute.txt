@@ -1,0 +1,16 @@
+C:\Users\elifh\source\repos\Alarm3\Alarm3\bin\Debug\Alarm3.exe.config
+C:\Users\elifh\source\repos\Alarm3\Alarm3\bin\Debug\Alarm3.exe
+C:\Users\elifh\source\repos\Alarm3\Alarm3\bin\Debug\Alarm3.pdb
+C:\Users\elifh\source\repos\Alarm3\Alarm3\obj\Debug\Alarm3.csproj.AssemblyReference.cache
+C:\Users\elifh\source\repos\Alarm3\Alarm3\obj\Debug\Alarm3.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifh\source\repos\Alarm3\Alarm3\obj\Debug\Alarm3.Form1.resources
+C:\Users\elifh\source\repos\Alarm3\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+C:\Users\elifh\source\repos\Alarm3\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+C:\Users\elifh\source\repos\Alarm3\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+C:\Users\elifh\source\repos\Alarm3\Alarm3\obj\Debug\Alarm3.exe
+C:\Users\elifh\source\repos\Alarm3\Alarm3\obj\Debug\Alarm3.pdb
+C:\Users\elifh\source\repos\Alarm3\Alarm3\bin\Debug\Interop.WMPLib.dll
+C:\Users\elifh\source\repos\Alarm3\Alarm3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\elifh\source\repos\Alarm3\Alarm3\obj\Debug\Interop.WMPLib.dll
+C:\Users\elifh\source\repos\Alarm3\Alarm3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\elifh\source\repos\Alarm3\Alarm3\obj\Debug\Alarm3.csproj.ResolveComReference.cache
